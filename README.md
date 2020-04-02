@@ -1,4 +1,4 @@
-# Brittjeka
+# Robot motion planning and control - group 10 - car - RRT 
 Implementation of a RRT* algorithm for a car
 
 ### Main.m 
