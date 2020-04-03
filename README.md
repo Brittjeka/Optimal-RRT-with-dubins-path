@@ -3,7 +3,8 @@ Implementation of a RRT* algorithm for a car
 
 ### `Main.m` 
 File with the main code of RRT* star. To run the code download all files and run the `main.m` file 
-For changing the different scenario's change the variable `scenario` in the mail file to `1`,`2` or `3`
+For changing the different scenario's, change the value of the variable `scenario` at the top
+of the main.m file to `1`,`2` or `3`
 
 ### `BuildObstacles.m`
 Implementation of the environment with the obstacles. 
